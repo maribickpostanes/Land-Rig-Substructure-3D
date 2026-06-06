@@ -1,4 +1,4 @@
-# 3D Interactive Land Rig Substructure Visualization (OBJ) file using Python
+# 3D Interactive Land Rig Substructure Visualization (OBJ file) using Python
 
 This repository hosts a proof-of-concept, interactive 3D land rig substructure plot processed from an OBJ file. Optimized specifically for web viewing, it allows you to rotate and inspect the model's complex geometry in your browser.
 
