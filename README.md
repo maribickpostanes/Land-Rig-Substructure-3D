@@ -4,4 +4,4 @@ This repository hosts a proof-of-concept, interactive 3D land rig substructure p
 
 Github Pages Link: https://maribickpostanes.github.io/Land-Rig-Substructure-3D/
 
-<img width="1920" height="1080" alt="Interactive 3D Land Rig Substructure" src="https://github.com/user-attachments/assets/99451046-19cc-4f07-89e4-6f7a058d69a8" />
+<img width="1920" height="1080" alt="Interactive 3D Land Rig Substructure" src="https://github.com/user-attachments/assets/601c9681-4c8d-4325-b813-a1c9cafc9967" />
