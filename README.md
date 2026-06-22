@@ -4,7 +4,7 @@ This repository hosts a proof-of-concept, interactive 3D land rig substructure p
 
 ## 
 - Github Pages Link: https://maribickpostanes.github.io/Land-Rig-Substructure-3D/
-- [3D Interactive Land Rig Substructure Linkedin Post] (https://www.linkedin.com/posts/maribickpostanes_python-oilandgas-geothermal-ugcPost-7406689717892763648-wOiU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
+- [3D Interactive Land Rig Substructure Linkedin Post](https://www.linkedin.com/posts/maribickpostanes_python-oilandgas-geothermal-ugcPost-7406689717892763648-wOiU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
 
 <img width="1920" height="1080" alt="Interactive 3D Land Rig Substructure" src="https://github.com/user-attachments/assets/601c9681-4c8d-4325-b813-a1c9cafc9967" />
 
