@@ -5,3 +5,8 @@ This repository hosts a proof-of-concept, interactive 3D land rig substructure p
 Github Pages Link: https://maribickpostanes.github.io/Land-Rig-Substructure-3D/
 
 <img width="1920" height="1080" alt="Interactive 3D Land Rig Substructure" src="https://github.com/user-attachments/assets/601c9681-4c8d-4325-b813-a1c9cafc9967" />
+
+## Official Source & Security Notice
+* **Official Repository:** This is the only official GitHub repository hosting this 3D plot. I do not publish or distribute my 3D plots on any other accounts, external websites, or compressed archive (.zip) links.
+* **Fake Contributor Warning:** If you see my name or profile picture listed as a "contributor" on any other repository offering 3D download links, **it is a fake spoofing attempt**. I have no connection to those pages.
+* **Copyright Notice:** This standalone HTML file and its interactive 3D model layout are my original work. Copying or cloning this layout without explicit written permission is not allowed.
